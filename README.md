@@ -33,7 +33,7 @@ Followed by:
 Requirements:
 
 - azure-mgmt-resource
-- 
+
 - azure-mgmt-web
-- 
+
 - azure-identity
