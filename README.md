@@ -30,8 +30,6 @@ Followed by:
 
 `az webapp up --resource-group PythonAzureExample-WebApp-rg --sku B1 -n azure-provision-deploy`
 
-The app is a simple "Hello World" app, and it can be seen here: http://azure-provision-deploy.azurewebsites.net/
-
 Requirements:
 
 - azure-mgmt-resource
