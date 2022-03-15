@@ -1,6 +1,8 @@
 # Provisioning and deploying a web app with the Azure SDK for Python
 
-This is a Python script that utilizes Azure SDK libraries to provision on Azure App Service and deploy an app from a Giyhub repository.
+This is a Python script that utilizes Azure SDK libraries to provision on Azure App Service and deploy an app from a Github repository.
+
+Provisioning refers to the process of allocating the resources required within Azure to deploy your code and data. The Azure SDK libraries allow you to do this programmatically within Python. Within the Azure resource model, there are 3 levels of hierarchy used to organize the resources: subscriptions, resource groups, and naming of the resource. A subscription outlines the various features available for an application. A resource group is a container for other resources which you can manage as a group, and it is always associated with a specific Azure region, which is the location of that data center
 
 To run the script, download the project and cd into the project directory. Then, run:
 
