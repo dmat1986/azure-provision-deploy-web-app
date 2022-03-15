@@ -22,7 +22,7 @@ Create the `WEB_APP_NAME` environment variable:
 
 `WEB_APP_NAME=name_of_your_app`
 
-Make sure your settings in Azure allow you to deploy and build code from your preferred source and build provider - Github, in this case. Go to the Deployment Center in the Azure Portal to set this up.
+Make sure your settings in Azure allow you to deploy and build code from your preferred source and build provider - Github, in this case. Go to the Deployment Center in the Azure Portal to set this up. For more details on this, see the links provided here: https://docs.microsoft.com/en-us/azure/developer/github/deploy-to-azure
 
 Run the script:
 
