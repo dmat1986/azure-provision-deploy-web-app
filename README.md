@@ -18,7 +18,7 @@ Create the following environment variable:
 
 Create the `WEB_APP_NAME` environment variable:
 
-`WEB_APP_NAME=azure-provision-deploy`
+`WEB_APP_NAME=name_of_your_app`
 
 Make sure your settings in Azure allow you to deploy and build code from your preferred source and build provider - Github, in this case. Go to the Deployment Center in the Azure Portal to set this up.
 
@@ -28,7 +28,7 @@ Run the script:
 
 Followed by:
 
-`az webapp up --resource-group PythonAzureExample-WebApp-rg --sku B1 -n azure-provision-deploy`
+`az webapp up --resource-group PythonAzureExample-WebApp-rg --sku B1 -n name_of_your_app`
 
 Requirements:
 
