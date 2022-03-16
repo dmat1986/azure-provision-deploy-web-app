@@ -7,7 +7,7 @@ Provisioning refers to the process of allocating the resources required within A
 Within the Azure resource model, there are 3 levels of hierarchy used to organize the resources: 
 
 1. Subscriptions. A subscription outlines the various features available for an application.
-2. Resource groups. A resource group is a container - packages of software that contain all of the necessary elements to run in an environment - for other resources which you can manage as a group, and it is always associated with a specific Azure region, which is the location of that data center.
+2. Resource groups. A resource group is a container - packages of software that contain all of the necessary elements like files, libraries and environment variables, to run in an environment - for other resources which you can manage as a group, and it is always associated with a specific Azure region, which is the location of that data center.
 3. Naming of the resource.  
 
 To run the script, download the project and cd into the project directory. Then, run:
